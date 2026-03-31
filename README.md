@@ -10,7 +10,7 @@ The main `SKILL.md` gives Claude the decision-making context for 80% of tasks. T
 
 ```bash
 git clone https://github.com/kaustavdm/nats-skill.git /tmp/nats-skill
-cp -r /tmp/nats-skill/skills/nats ~/.claude/skills/nats
+cp -r /tmp/nats-skill/skills/nats ~/.claude/skills/
 ```
 
 ### As a plugin
